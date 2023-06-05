@@ -1,0 +1,29 @@
+
+
+Concept is to build a hosting platform(Loudspot) where people can Host their website and automatically make the changes for their website or SEO changes to help them optimize their website and rank better organically(organic search SERP a.k.a. search engine results page).
+
+Build an AI that automatically detects the length of title description and meta description to identify the character length and find if the character length is exceeding and getting truncated. Once identified it needs to automatically update and maintain the character length of title and meta description as per the algorithm and stay up-to-date with the changes made by the algorithm. 
+Or build an AI to identify the changes made by Google Search algorithm and make changes manually on their platform 
+
+Goggle Search algo is making 64 core and 212 search parameters changes everyday. 
+
+Scott has been making changes manually by going into the backend of the specific page after performing organic search and finding out the new changes 
+
+The idea is to eliminate SEO consultant. Build a hosting platform and point their DNS to our platform and automatically make changes to their website. And also identify the different keywords they are not ranking for and also identify if they need more content on their page. And land on the 1st page of Google Search Engine
+
+If this is automated then it can be scaled further to make changes to thousands of websites rather than having to do it manually 
+
+
+
+ahrefs.com -  is a website that an all-in-one SEO toolset for growing search traffic and optimizing websites.
+
+Semrush - is an all-in-one tool suite for improving online visibility and discovering marketing insights. Our tools and reports are able to help marketers that work in the following services: SEO, PPC, SMM, Keyword Research, Competitive Research, PR, Content Marketing, Marketing Insights, Campaign Management.
+
+WPEngine - WPEngine is VIP WordPress hosting. Their hassle-free hosting offers fast and robust servers that can handle anything. The grew their company from 4 people to 5000 by building super fast connections using AWS servers. Just for hosting WodPress. It’s fast but doesn’t help with SEO 
+
+
+
+Too Short Or Too Long Titles:
+
+If the page title is too long, Google truncates the search results, which leads to a negative user experience and short titles don't provide the information needed to searchers.
+
